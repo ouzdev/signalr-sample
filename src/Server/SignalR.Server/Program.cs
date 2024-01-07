@@ -1,44 +1,38 @@
+using System.Text.Json.Nodes;
+using SignalR.Server.Hubs;
+using SignalR.Server.Services;
+using SignalR.Server.Settings;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSignalR();
+builder.Services.Configure<CoreSettings>(builder.Configuration.GetSection("Core"));
+builder.Services.AddScoped<ISignalRService, SignalRService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    
 }
 
+app.UseSwagger();
+app.UseSwaggerUI();
 app.UseHttpsRedirection();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
+app.MapGet("/notify-to-clients", (IServiceProvider provider) =>
     {
-        var forecast = Enumerable.Range(1, 5).Select(index =>
-                new WeatherForecast
-                (
-                    DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                    Random.Shared.Next(-20, 55),
-                    summaries[Random.Shared.Next(summaries.Length)]
-                ))
-            .ToArray();
-        return forecast;
+       var scope = provider.CreateScope();
+       
+       var signalRService = scope.ServiceProvider.GetRequiredService<ISignalRService>();
+
+       signalRService.Push(NotifyTrackerHub.HubMethodType.NotifyEvent, new JsonObject{}, "notify-tracker");
     })
-    .WithName("GetWeatherForecast")
+    .WithName("NotifyToClients")
     .WithOpenApi();
 
-app.Run();
+app.MapHub<NotifyTrackerHub>("/notify-tracker");
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
+app.Run();
