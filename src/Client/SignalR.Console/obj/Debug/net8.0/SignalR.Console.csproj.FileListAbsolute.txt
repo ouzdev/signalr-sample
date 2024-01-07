@@ -1,8 +1,5 @@
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.exe
-C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.deps.json
-C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.runtimeconfig.json
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.dll
-C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.pdb
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
@@ -16,8 +13,8 @@ C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\SignalR.Console.csproj.AssemblyReference.cache
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\SignalR.Console.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\SignalR.Console.AssemblyInfoInputs.cache
@@ -28,5 +25,8 @@ C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\SignalR.Console.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\refint\SignalR.Console.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\SignalR.Console.pdb
+C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.deps.json
+C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.runtimeconfig.json
+C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\bin\Debug\net8.0\SignalR.Console.pdb
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\SignalR.Console.genruntimeconfig.cache
 C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\obj\Debug\net8.0\ref\SignalR.Console.dll

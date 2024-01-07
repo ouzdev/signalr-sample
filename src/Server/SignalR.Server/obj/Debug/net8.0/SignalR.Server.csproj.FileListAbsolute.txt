@@ -5,7 +5,10 @@ C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\SignalR.Server.runtimeconfig.json
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\SignalR.Server.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\SignalR.Server.pdb
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -32,6 +35,11 @@ C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\obj\Debug\net8.0\
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\obj\Debug\net8.0\SignalR.Server.pdb
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\obj\Debug\net8.0\SignalR.Server.genruntimeconfig.cache
 C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\obj\Debug\net8.0\ref\SignalR.Server.dll
-C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
-C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
-C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

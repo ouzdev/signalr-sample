@@ -14,40 +14,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a872b1c7-5bc8-4c0a-8e18-be62d5848eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/Hubs/NotifyTrackerHub.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/Services/ISignalRService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/Services/SignalRService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/Settings/CoreSettings.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/SignalR.Console.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/SignalR.Console.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/bin/Debug/net8.0/SignalR.Console.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/bin/Debug/net8.0/SignalR.Console.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/bin/Debug/net8.0/SignalR.Console.runtimeconfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/SignalR.Console.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/SignalR.Console.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/SignalR.Console.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/SignalR.Console.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/SignalR.Console.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/SignalR.Console.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/SignalR.Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/SignalR.Server.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/SignalR.Console.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/ref/SignalR.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/refint/SignalR.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/SignalR.Console/obj/Debug/net8.0/refint/SignalR.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/Hubs/NotifyTrackerHub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/Hubs/NotifyTrackerHub.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/bin/Debug/net8.0/SignalR.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/bin/Debug/net8.0/SignalR.Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/bin/Debug/net8.0/SignalR.Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/bin/Debug/net8.0/SignalR.Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/bin/Debug/net8.0/SignalR.Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/bin/Debug/net8.0/SignalR.Server.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/SignalR.Server.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/SignalR.Server.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/SignalR.Server.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/SignalR.Server.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/SignalR.Server.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/SignalR.Server.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/SignalR.Server.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/ref/SignalR.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/ref/SignalR.Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/refint/SignalR.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/SignalR.Server/obj/Debug/net8.0/refint/SignalR.Server.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +51,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a4dad19c64a4f1a994732eaf2de348e228b0/bd/4248b87a/ServiceCollectionServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af76cc1c6d564f359d1233565300ef16304b0/7d/2c73a5a8/HubConnectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f6e9d752964e4bb6a416d97e6d41fc4716d918/39/88dfdfd5/JsonObject.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -236,7 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704632988120</updated>
-      <workItem from="1704632989286" duration="4807000" />
+      <workItem from="1704632989286" duration="6773000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -254,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704633732974</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add server &amp; client">
+      <option name="closed" value="true" />
+      <created>1704638232035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704638232035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,23 +268,24 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Edit and add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit and add files" />
+    <MESSAGE value="Add server &amp; client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add server &amp; client" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/src/Server/SignalR.Server/Services/SignalRService.cs</url>
-          <line>25</line>
-          <properties documentPath="C:\Users\ogenc\RiderProjects\SignalR\src\Server\SignalR.Server\Services\SignalRService.cs" initialLine="25" containingFunctionPresentation="Method 'Push'">
+          <url>file://$PROJECT_DIR$/src/Client/SignalR.Console/Program.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\ogenc\RiderProjects\SignalR\src\Client\SignalR.Console\Program.cs" initialLine="15" containingFunctionPresentation="">
             <startOffsets>
-              <option value="763" />
+              <option value="425" />
             </startOffsets>
             <endOffsets>
-              <option value="826" />
+              <option value="477" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.SignalR.Client;
 using Microsoft.Extensions.Options;
 using SignalR.Server.Settings;
 
-namespace SignalR.Server.Services
+namespace SignalR.Server.Services.SignalR
 {
     public class SignalRService : ISignalRService
     {
@@ -19,6 +19,11 @@ namespace SignalR.Server.Services
         {
             var hubConnectionBuilder = new HubConnectionBuilder()
                 .WithUrl($"{_options.Value.ServerUrl}/{hubUrl}")
+                .ConfigureLogging(logging =>
+                {
+                    logging.AddConsole();
+                    logging.SetMinimumLevel(LogLevel.Debug);
+                })
                 .Build();
 
             try
