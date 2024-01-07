@@ -43,8 +43,8 @@ app.MapGet("/notify-to-clients", (IServiceProvider provider) =>
 
         signalRService.Push(NotifyTrackerHub.HubMethodType.NotifyEvent, new JsonObject()
         {
-            ["title"] = "Hello World!",
-            ["message"] = "Naber Maraba?",
+            ["title"] = "Test Notify",
+            ["message"] = "Test Notify Message",
             ["date"] = DateTime.Now,
             ["type"] = "info"
         }, "notify-tracker");
