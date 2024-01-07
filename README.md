@@ -1,18 +1,17 @@
-SignalR Sample
-SignalR Nedir ?
+# SignalR Server with JWT Authentication and .NET 8 Minimal API
 
-Real time communication
+This project comprises a SignalR Server utilizing .NET 8 Minimal API and incorporating JWT (JSON Web Token) authentication for security.
 
-Yaptığı iş -> Abstraction Over Transport -> RPC
+## Server Project
 
-Browser HTML5 deskteliyorsa Web Socket değil ise Long Polling yapılır ( Internet Exploler 8 ve öncesi)
-Connection sırasında jsonp parametresi true gönbderilmiş ise Long Polling yapılır.
-Cross domain SignalR endpoint ile host edilen sayfanın domaini aynı değil ise :
+This project is a simple SignalR Server that accepts a message from a client and broadcasts it to all connected clients.
 
-```Server, Client Websocket’i desteklemez ise ve client CORS (Cross-Origin Resource Sharing) desteklemez ise Long Polling yapılır.```
+### Requirements
+- .NET 8
 
-Long polling -> Sunucuya isteği atar fakat sunucu tarafından cevap dönmesi için yeni bir istek yapılmasını bekler.
+## Client Project
 
+This project is a simple console application that connects to the SignalR Server and sends a message to the server.
 
-
-
+### Requirements
+- .NET 8
