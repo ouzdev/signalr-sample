@@ -1,0 +1,6 @@
+@SiganlR.Server_HostAddress = http://localhost:5279
+
+GET {{SiganlR.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
