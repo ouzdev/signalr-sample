@@ -1,4 +1,4 @@
-# SignalR Server with JWT Authentication and .NET 8 Minimal API
+# SignalR Sample With Server & Client
 
 This project comprises a SignalR Server utilizing .NET 8 Minimal API and incorporating JWT (JSON Web Token) authentication for security.
 
