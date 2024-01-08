@@ -1,5 +1,6 @@
 # SignalR Sample With Server & Client
 [![.NET](https://github.com/ouzdev/signalr-sample/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ouzdev/signalr-sample/actions/workflows/dotnet.yml)
+[![CodeQL](https://github.com/ouzdev/signalr-sample/actions/workflows/codeql.yml/badge.svg)](https://github.com/ouzdev/signalr-sample/actions/workflows/codeql.yml)
 
 This project comprises a SignalR Server utilizing .NET 8 Minimal API and incorporating JWT (JSON Web Token) authentication for security.
 
